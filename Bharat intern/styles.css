@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #005b5b;
+  background-color: #00b7ff;
   margin: 0;
   padding: 0;
   display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 .converter {
-  background-color: #eb640b;
+  background-color: #fbff0d;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
